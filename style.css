@@ -1,0 +1,9 @@
+body{
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    border: solid 1px black;
+    background-color: rgb(79, 97, 179);
+
+}
